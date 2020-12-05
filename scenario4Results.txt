@@ -1,0 +1,203 @@
+Total time to compute in nanoseconds: 10329545
+
+ID Number: 1
+Service Time: 673120193213 cycles
+Memory Requirements: 427KB 
+Array Index's Located (Memory Location): 0 - 426
+
+ID Number: 2
+Service Time: 361228911951 cycles
+Memory Requirements: 280KB 
+Array Index's Located (Memory Location): 427 - 706
+
+ID Number: 3
+Service Time: 11376836678 cycles
+Memory Requirements: 357KB 
+Array Index's Located (Memory Location): 427 - 783
+
+ID Number: 4
+Service Time: 143023111493 cycles
+Memory Requirements: 169KB 
+Array Index's Located (Memory Location): 784 - 952
+
+ID Number: 5
+Service Time: 494407150175 cycles
+Memory Requirements: 407KB 
+Array Index's Located (Memory Location): 427 - 833
+
+ID Number: 6
+Service Time: 728696540300 cycles
+Memory Requirements: 611KB 
+Array Index's Located (Memory Location): 0 - 610
+
+ID Number: 7
+Service Time: 780637002107 cycles
+Memory Requirements: 270KB 
+Array Index's Located (Memory Location): 611 - 880
+
+ID Number: 8
+Service Time: 270851686776 cycles
+Memory Requirements: 251KB 
+Array Index's Located (Memory Location): 0 - 250
+
+ID Number: 9
+Service Time: 140694498805 cycles
+Memory Requirements: 361KB 
+Array Index's Located (Memory Location): 251 - 611
+
+ID Number: 10
+Service Time: 773214379168 cycles
+Memory Requirements: 199KB 
+Array Index's Located (Memory Location): 612 - 810
+
+ID Number: 11
+Service Time: 473833524344 cycles
+Memory Requirements: 221KB 
+Array Index's Located (Memory Location): 251 - 471
+
+ID Number: 12
+Service Time: 966729217714 cycles
+Memory Requirements: 263KB 
+Array Index's Located (Memory Location): 0 - 262
+
+ID Number: 13
+Service Time: 892174599068 cycles
+Memory Requirements: 335KB 
+Array Index's Located (Memory Location): 263 - 597
+
+ID Number: 14
+Service Time: 681766657379 cycles
+Memory Requirements: 238KB 
+Array Index's Located (Memory Location): 598 - 835
+
+ID Number: 15
+Service Time: 639167174150 cycles
+Memory Requirements: 108KB 
+Array Index's Located (Memory Location): 836 - 943
+
+ID Number: 16
+Service Time: 879618066165 cycles
+Memory Requirements: 175KB 
+Array Index's Located (Memory Location): 598 - 772
+
+ID Number: 17
+Service Time: 765078517291 cycles
+Memory Requirements: 118KB 
+Array Index's Located (Memory Location): 773 - 890
+
+ID Number: 18
+Service Time: 43187412888 cycles
+Memory Requirements: 215KB 
+Array Index's Located (Memory Location): 263 - 477
+
+ID Number: 19
+Service Time: 866696672210 cycles
+Memory Requirements: 166KB 
+Array Index's Located (Memory Location): 263 - 428
+
+ID Number: 20
+Service Time: 268361772356 cycles
+Memory Requirements: 71KB 
+Array Index's Located (Memory Location): 429 - 499
+
+ID Number: 21
+Service Time: 954199842038 cycles
+Memory Requirements: 93KB 
+Array Index's Located (Memory Location): 500 - 592
+
+ID Number: 22
+Service Time: 70186174132 cycles
+Memory Requirements: 188KB 
+Array Index's Located (Memory Location): 0 - 187
+
+ID Number: 23
+Service Time: 287659177906 cycles
+Memory Requirements: 148KB 
+Array Index's Located (Memory Location): 773 - 920
+
+ID Number: 24
+Service Time: 410242835788 cycles
+Memory Requirements: 134KB 
+Array Index's Located (Memory Location): 0 - 133
+
+ID Number: 25
+Service Time: 717940340172 cycles
+Memory Requirements: 308KB 
+Array Index's Located (Memory Location): 134 - 441
+
+ID Number: 26
+Service Time: 648346061902 cycles
+Memory Requirements: 173KB 
+Array Index's Located (Memory Location): 593 - 765
+
+ID Number: 27
+Service Time: 590958887171 cycles
+Memory Requirements: 260KB 
+Array Index's Located (Memory Location): 0 - 259
+
+ID Number: 28
+Service Time: 94249855855 cycles
+Memory Requirements: 24KB 
+Array Index's Located (Memory Location): 260 - 283
+
+ID Number: 29
+Service Time: 101084860983 cycles
+Memory Requirements: 365KB 
+Array Index's Located (Memory Location): 284 - 648
+
+ID Number: 30
+Service Time: 232180415822 cycles
+Memory Requirements: 349KB 
+Array Index's Located (Memory Location): 649 - 997
+
+ID Number: 31
+Service Time: 700831745071 cycles
+Memory Requirements: 388KB 
+Array Index's Located (Memory Location): 260 - 647
+
+ID Number: 32
+Service Time: 353562222640 cycles
+Memory Requirements: 345KB 
+Array Index's Located (Memory Location): 648 - 992
+
+ID Number: 33
+Service Time: 496918144963 cycles
+Memory Requirements: 274KB 
+Array Index's Located (Memory Location): 648 - 921
+
+ID Number: 34
+Service Time: 665151264482 cycles
+Memory Requirements: 221KB 
+Array Index's Located (Memory Location): 0 - 220
+
+ID Number: 35
+Service Time: 664376001970 cycles
+Memory Requirements: 109KB 
+Array Index's Located (Memory Location): 221 - 329
+
+ID Number: 36
+Service Time: 307979564540 cycles
+Memory Requirements: 390KB 
+Array Index's Located (Memory Location): 330 - 719
+
+ID Number: 37
+Service Time: 224499006084 cycles
+Memory Requirements: 388KB 
+Array Index's Located (Memory Location): 330 - 717
+
+ID Number: 38
+Service Time: 803882916215 cycles
+Memory Requirements: 228KB 
+Array Index's Located (Memory Location): 718 - 945
+
+ID Number: 39
+Service Time: 740121856844 cycles
+Memory Requirements: 159KB 
+Array Index's Located (Memory Location): 0 - 158
+
+ID Number: 40
+Service Time: 151785087427 cycles
+Memory Requirements: 214KB 
+Array Index's Located (Memory Location): 159 - 372
+
+Average Service Time: 501750504655
