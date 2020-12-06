@@ -1,4 +1,4 @@
-//Daniel Kantor, Isaiah Jones & MacKenzie Richards
+//Daniel Kantor & MacKenzie Richards
 #ifndef STRUCT_H
 #define STRUCT_H
 
@@ -7,6 +7,15 @@ struct node{ //Struct to store the randomly generated serive time and memory siz
     long long serviceTime;
     int memoryReq;
     int processID;
+};
+
+struct data{ //Struct to store the data that the processors return after execution
+    data(long sp, long r, int p, long se, int mem) : speed(sp), remainingServiceTime(r), processID(p), serviceTime(se), memReq(mem){}
+    long speed;
+    long remainingServiceTime;
+    long processID;
+    long serviceTime;
+    int memReq;
 };
 
 #endif
