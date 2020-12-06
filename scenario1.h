@@ -7,7 +7,7 @@
 #include "struct.h"
 using namespace std;
 
-//Sets up the imports for FIFO so it can be called from createProcess.cpp
+//Sets up the imports for scenario1.cpp so it can be called from createProcess.cpp
 void scenario1(queue<node> processes, long speed);
 
 #endif

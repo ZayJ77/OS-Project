@@ -18,5 +18,4 @@ struct data{ //Struct to store the data that the processors return after executi
     int memReq;
 };
 
-
 #endif
