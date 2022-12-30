@@ -1,4 +1,4 @@
-//Daniel Kantor & MacKenzie Richards
+//Isaiah Jones & MacKenzie Richards
 #include <iostream>
 #include "otherScenarios.h"
 #include <random>
